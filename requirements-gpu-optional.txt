@@ -1,0 +1,2 @@
+reikna
+pyopencl
