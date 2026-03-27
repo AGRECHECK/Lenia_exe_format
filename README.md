@@ -50,3 +50,4 @@ For more information about the original project:
 - Original repository: https://github.com/Chakazul/Lenia  
 - Research paper: https://arxiv.org/abs/1812.05433  
 
+This standalone EXE was packaged with the help of Codex.
